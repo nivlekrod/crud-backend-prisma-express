@@ -22,3 +22,9 @@ O Projeto foi feito com o objetivo de realizar cadastro de alunos. Nesse projeto
 Ele foi feito com o propósito de rodar em conjunto com um front-end (provavelmente vai ter que fazer algumas mudanças para rodar corretamente)
 
 [🔗 Clique aqui para acessar o repositório do front-end](https://github.com/helxysa/CRUD-REACT-FRONTEND)
+
+## ⚙️ Inicializando o Projeto
+
+#### `npm run dev`
+ou
+#### `yarn dev`
